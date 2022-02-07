@@ -1,0 +1,24 @@
+{
+  "name": "ldulivo",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @ldulivo. - ⚡ I am a professional technician in Data Networks and Telecommunications, graduated from the National University of Cuyo (Mendoza, Argentina). - 👀 I’m interested in full stack web development. - 🌱 I’m currently learning ReactJs, NodeJs and databases (SQL and NoSQL) - 📫 How to reach me: https://www.linkedin.com/in/ldulivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldulivo/ldulivo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldulivo/ldulivo/issues"
+  },
+  "homepage": "https://github.com/ldulivo/ldulivo#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
