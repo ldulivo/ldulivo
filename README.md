@@ -6,14 +6,20 @@
 - 🌱 I’m currently learning ReactJs, NodeJs and databases (SQL and NoSQL)
 - 📫 How to reach me: https://www.linkedin.com/in/ldulivo
 
+```js
+const ldulivo = {
+  code: [Javascript, HTML, CSS],
+  tools: [ReactJs, NodeJs, ExpressJs],
+  sysadmin: [GNU / Linux, TCP / IP, UDP, HTTP, SMTP, DNS, FTP, SSH],
+};
+```
+
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-nodejs-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-react-native-48.png)
-
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-javascript-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-html-5-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-css3-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-sass-48.png)
-
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-bootstrap-48.png)
 
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-git-48.png)
