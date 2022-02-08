@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ReactJs, NodeJs and databases (SQL and NoSQL)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ldulivo)
 
-[![ldulivo]https://github-readme-stats.vercel.app/api?username=ldulivo]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldulivo)](https://github.com/anuraghazra/github-readme-stats)
 
 ```js
 const ldulivo = {
