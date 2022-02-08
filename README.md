@@ -8,9 +8,21 @@
 
 ```js
 const ldulivo = {
-  code: [Javascript, HTML, CSS],
-  tools: [ReactJs, NodeJs, ExpressJs],
-  sysadmin: [GNU / Linux, TCP / IP, UDP, HTTP, SMTP, DNS, FTP, SSH],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["ReactJs", "NodeJs", "ExpressJs"],
+  technologies: "web",
+  passion: ["web development"],
+  sysadmin: [
+    "GNU/Linux",
+    "TCP/IP",
+    "UDP",
+    "HTTP",
+    "SMTP",
+    "DNS",
+    "FTP",
+    "SSH",
+    "Bash",
+  ],
 };
 ```
 
