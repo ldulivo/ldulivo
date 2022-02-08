@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning ReactJs, NodeJs and databases (SQL and NoSQL)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ldulivo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldulivo)](https://github.com/anuraghazra/github-readme-stats)
-
 ```js
 const ldulivo = {
   code: [Javascript, HTML, CSS],
@@ -31,3 +29,5 @@ const ldulivo = {
 
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-mysql-logo-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-mongodb-48.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldulivo)](https://github.com/anuraghazra/github-readme-stats)
