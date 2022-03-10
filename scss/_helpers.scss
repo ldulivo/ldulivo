@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $font-common;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+a,
+a:hover,
+a:active,
+a:link {
+  text-decoration: none;
+  color: $font-light;
+}
+
+body {
+  background: $background-grey;
+  color: $font-light;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+span {
+  font-weight: 500;
+}
+
+.card {
+  &--full {
+    width: 100% !important;
+  }
+
+  &--400 {
+    width: 400px;
+  }
+
+  &--750 {
+    width: 750px;
+  }
+}
