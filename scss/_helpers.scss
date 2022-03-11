@@ -14,6 +14,7 @@ a:active,
 a:link {
   text-decoration: none;
   color: $font-light;
+  font-weight: 500;
 }
 
 body {
@@ -51,5 +52,77 @@ span {
 
   &--750 {
     width: 750px;
+  }
+}
+
+.grid {
+  &--3 {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  &--4 {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  &--5 {
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  &--6 {
+    display: grid !important;
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  &--8 {
+    display: grid !important;
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  &--9 {
+    display: grid !important;
+    grid-template-columns: repeat(9, 1fr);
+  }
+
+  &--12 {
+    display: grid !important;
+    grid-template-columns: repeat(12, 1fr);
+    left: 0 !important;
+  }
+
+  &--250-900 {
+    display: grid !important;
+    grid-template-columns: 250px 900px;
+    left: 20px !important;
+  }
+
+  &--400-800 {
+    display: grid !important;
+    grid-template-columns: 400px 800px;
+    left: 20px !important;
+  }
+}
+
+.node {
+  &--top {
+    background-image: url("../img/cv/node_a.png");
+    height: 90px;
+    width: 100vw;
+  }
+
+  &--bottom {
+    background-image: url("../img/cv/node_b.png");
+    height: 90px;
+    width: 100vw;
+  }
+}
+
+.not {
+  &--spacing-top {
+    height: 0;
+    position: relative;
+    top: -40px;
   }
 }

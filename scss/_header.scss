@@ -2,7 +2,8 @@
   color: $font-dark;
   width: 100%;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   position: relative;
 
   &::before {
@@ -17,12 +18,9 @@
   }
 
   &--back {
-    height: 185px;
+    height: 144px;
     width: 1200px;
     position: relative;
-    background-image: url("../img/cv/header_a.png");
-    background-repeat: no-repeat;
-    background-size: cover;
   }
 
   &--container {
@@ -58,5 +56,34 @@
       font-size: 40px;
       font-weight: 600;
     }
+
+    &-about-me {
+      position: relative;
+      left: 80px;
+    }
+
+    &-contact-me {
+      li {
+        display: flex;
+        position: relative;
+        align-items: center;
+        height: 40px;
+
+        &:nth-child(3) img {
+          top: -4px;
+        }
+      }
+
+      img {
+        width: 20px;
+        position: relative;
+        top: 0;
+        margin-right: 5px;
+      }
+    }
+  }
+
+  .node--bottom {
+    background-position: center;
   }
 }
