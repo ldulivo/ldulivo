@@ -23,6 +23,7 @@ const ldulivo = {
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-css3-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-sass-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-bootstrap-48.png)
+![](https://ldulivo.github.io/ldulivo/img/icons/icons8-php-48.png)
 
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-git-48.png)
 ![](https://ldulivo.github.io/ldulivo/img/icons/icons8-github-48.png)
