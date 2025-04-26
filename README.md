@@ -2,14 +2,14 @@
 
 - 👋 Hi, I’m @ldulivo.
 - ⚡ I am Technician in data networks and telecommunications, graduated from the National University of Cuyo (Mendoza, Argentina).
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning ReactJs, NodeJs and databases (SQL and NoSQL)
+- 👀 I’m interested in full stack web development. I primarily work with ReactJs, NodeJs, PHP, and SQL.
+- 🌱 I'm currently studying for LLM and MCP.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ldulivo)
 
 ```js
 const ldulivo = {
-  code: [Javascript, HTML, CSS],
-  tools: [ReactJs, NodeJs, ExpressJs],
+  code: [Javascript, TypeScript, HTML, CSS, PHP, SQL],
+  tools: [ReactJs, NodeJs, ExpressJs, T-SQL, ERP],
   technologies: "WEB",
   passion: ["WEB Development"],
   sysadmin: [GNU / Linux, TCP / IP, UDP, HTTP, SMTP, DNS, FTP, SSH, Bash],
