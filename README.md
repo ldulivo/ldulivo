@@ -1,18 +1,20 @@
-## Hi there
+## 👋 Hola, soy @ldulivo
 
-- 👋 Hi, I’m @ldulivo.
-- ⚡ I am Technician in data networks and telecommunications, graduated from the National University of Cuyo (Mendoza, Argentina).
-- 👀 I’m interested in full stack web development. I primarily work with ReactJs, NodeJs, PHP, and SQL.
-- 🌱 I'm currently studying for LLM and MCP.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ldulivo)
+- 💻 Técnico en Redes de Datos y Telecomunicaciones, egresado de la Universidad Nacional de Cuyo (Mendoza, Argentina).
+- 🔧 Integro sistemas ERP y desarrollo soluciones web a medida.
+- 🌐 Me especializo en desarrollo **full stack**, con experiencia en **React.js**, **Node.js**, **PHP** y **bases de datos SQL**.
+- 🚀 Aprendiendo las últimas novedades de **React 19** y explorando el mundo de los **Modelos de Lenguaje (LLM)**.
+- 📫 Podés contactarme en: [LinkedIn](https://www.linkedin.com/in/ldulivo)
+
+---
 
 ```js
 const ldulivo = {
-  code: [Javascript, TypeScript, HTML, CSS, PHP, SQL],
-  tools: [ReactJs, NodeJs, ExpressJs, T-SQL, ERP],
-  technologies: "WEB",
-  passion: ["WEB Development"],
-  sysadmin: [GNU / Linux, TCP / IP, UDP, HTTP, SMTP, DNS, FTP, SSH, Bash],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP", "SQL"],
+  tools: ["React.js", "Node.js", "Express.js", "T-SQL", "ERP"],
+  technologies: "Desarrollo Web",
+  passion: ["Frontend", "Integraciones", "Diseño de arquitecturas web"],
+  sysadmin: ["GNU/Linux", "TCP/IP", "UDP", "HTTP", "SMTP", "DNS", "FTP", "SSH", "Bash"],
 };
 ```
 
